@@ -4,3 +4,5 @@ We'll explore one of the most dreaded - but inevitable - things in Git... Merge 
 Everyone should change the following sentance with thier own thing:
 
 I am [Person3] and my favorite programming language is [java].
+I am Tahmid and my favorite programming language is Python.
+
