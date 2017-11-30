@@ -1,4 +1,9 @@
 Welcome to the GitHub Workshop!
-You must be Person 2. Make some changes to this file, like maybe writing a story, telling a joke, writing code... anything, really.
+You must be Person 2. 
+
+Something iI found in a chocolate milk bottle:
+
+How do you keep a bull from charging?
+- Take away his credit card.
 
 
